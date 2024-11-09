@@ -1,0 +1,10 @@
+考试系统主要由9个文件组成，功能如下：
+	（1）main.jsp：系统主要入口界面，为考生和管理员提供登录窗口。
+	（2）AdminLogin.jsp：管理员的登录界面。
+	（3）login.jsp：考生的登录界面。
+	（4）test.jsp：考试系统的考试界面。
+	（5）score.jsp：考试系统的评分界面。
+	（6）ryxinxi.jsp：管理员显示考生信息。
+	（7）rytianjia：管理员添加考生。
+	（8）ryxiugai：管理员修改考生。
+	（9）ryshanchu：管理员删除考生。
